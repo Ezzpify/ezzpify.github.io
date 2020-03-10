@@ -346,10 +346,16 @@ ul#nav li.current a { color: #F06000; }
   	width: 90%;
 }
 .java {
-  	width: 75%;
+  	width: 90%;
+}
+.swift {
+   width: 70%;
+}
+.unity {
+   width: 50%;
 }
 .web-front {
-  	width: 70%;
+  	width: 60%;
 }
 .web-back {
   	width: 70%;
@@ -361,13 +367,16 @@ ul#nav li.current a { color: #F06000; }
   width: 90%;
 }
 .sonyvegas {
-  width: 40%;
+  width: 50%;
 }
 .aftereffects {
   width: 65%;
 }
 .windows {
   width: 95%;
+}
+.mac {
+   width: 95%;
 }
 
 /* ------------------------------------------------------------------ */
